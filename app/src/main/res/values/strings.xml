@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LoanCalc</string>
+    <string name="loan">Ayo hitung pinjaman anda!</string>
+    <string name="pokok">Pokok pinjaman</string>
+    <string name="suku_bunga">Suku bunga pertahun</string>
+    <string name="tenor">Tenor (jangka waktu pinjam)</string>
+    <string name="jumlah_bulan">Jumlah bulan waktu kredit</string>
+    <string name="hitung">Hitung</string>
+
 </resources>

@@ -4,7 +4,9 @@
     <string name="pokok">Pokok pinjaman</string>
     <string name="suku_bunga">Suku bunga pertahun</string>
     <string name="tenor">Tenor (jangka waktu pinjam)</string>
-    <string name="jumlah_bulan">Jumlah bulan waktu kredit</string>
     <string name="hitung">Hitung</string>
+    <string name="hasil">Angsuran perbulan:Rp %1$.0f</string>
+    <string name="hasilTotal">Total yang harus dibayar:Rp %1$.0f</string>
+    <string name="invalid">Tidak boleh kosong.</string>
 
 </resources>
